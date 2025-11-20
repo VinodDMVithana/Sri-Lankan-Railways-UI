@@ -1,7 +1,7 @@
 # Sri-Lankan-Railways-UI
 Redesign of the Sri Lankan Railway website focusing on usability, modern UI, and accessibility – HCI Module project.
 
-🔗 [View Full Figma Prototype] - ([https://www.figma.com/file/your-prototype-link](https://www.figma.com/design/eCfShXFS02EKYa6r7y0WbV/Sri-Lankan-Railways?node-id=0-1&t=MNQVvAyX8SXxMeAP-1))
+🔗 [View Full Figma Prototype] - https://www.figma.com/design/eCfShXFS02EKYa6r7y0WbV/Sri-Lankan-Railways?node-id=0-1&t=MNQVvAyX8SXxMeAP-1
 
 📝 Overview
 
