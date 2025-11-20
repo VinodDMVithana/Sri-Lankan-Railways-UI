@@ -22,6 +22,8 @@ The redesigned interface is intuitive, responsive, and visually appealing for us
 
 🖼️ Screenshots / Design Preview
 
+HomePage - https://github.com/VinodDMVithana/Sri-Lankan-Railways-UI/blob/main/Home%20Page.png
+
 
 
 🛠️ Tools & Technologies
